@@ -1,6 +1,6 @@
-#react-antd-templete
+# react-antd-templete
 
- ###下载
+ ### 下载
 
  ```
  下载  git clone https://github.com/gaoshanshansyp/react-antd-templete.git
@@ -9,7 +9,7 @@
 
  ```
 
- ###运行(node安装)
+ ### 运行(node安装)
 
  ```
   npm run start
